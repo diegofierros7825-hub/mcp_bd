@@ -31,7 +31,7 @@ pip install mysql.connector
 ```bash
 mcp run .\mcp_BD.py -t sse
 ```
-
+## Estructura del proyecto
 ```bash
 📦 mcp_bd
 ├── .vscode
