@@ -20,18 +20,23 @@ cd mcp_bd
 # (Opcional) Crear un entorno virtual
 python -m venv venv
 venv\Scripts\activate
-
-# Instalar dependencias
+```
+## Instalar dependencias
+```bash
 pip install "mcp[cli]"
 pip install mysql.connector
 
-
-#Uso
+```
+## Uso
+```bash
 mcp run .\mcp_BD.py -t sse
+```
 
+```bash
 📦 mcp_bd
 ├── .vscode
 │ ├── mcp.json
 ├── README.md
 ├── config.py
 └── mcp_BD.py
+```
