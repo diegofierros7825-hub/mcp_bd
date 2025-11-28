@@ -1,7 +1,7 @@
 db_config = {
-    "host": "localhost",
-    "user": "root",
+    "host": "host",
+    "user": "usuario",
     "password": "", 
-    "database": "bd_empresa",
-    "port": 3306
+    "database": "nombre_base_de_datos",
+    "port": 0000
 }
